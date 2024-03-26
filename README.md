@@ -28,5 +28,5 @@ This repository is used for learn, track and become the master in devops by doin
 
 Note:- few of things copied form the opensource platform.
 
-### Day 1 - Introduction to Devops
-### Day 2 - Git
+#### Day 1 - Introduction to Devops
+#### Day 2 - Git
